@@ -22,6 +22,7 @@ in Philippines!
 with the Makeroid, now Kodular. you will able to make your own apps.
 an this is my first app that contains editing functionality.
 I'm so glad to see and so happy to see it!
+visit https://creator.kodular.io to start creating your apps in easy way!
 
 # Features
 - Unlimited fonts by plugins installed.
@@ -33,7 +34,7 @@ I'm so glad to see and so happy to see it!
 - Built-in Layer Background and Text Pattern.
 - 69 color presets.
 - Support for install font and clipart package.
-- Support for install font package to Cyberlink PowerDirector. may not work in certain cases.
+- Support for install font package to Cyberlink PowerDirector. not working on API 30 and later. only work on API 29.
 - Support for exporting on Internal Storage. especially Android 11 Restrictions.
 - Integrated with All Files Access Permission.
 - Free, no-ads, and high quality made in the Philippines.
