@@ -1,3 +1,11 @@
+**3.72.13.60 build 230726662**
+- Launcher icon has been changed in order to follow VJDY's Logo scheming!
+- Splash screen is now in solid color! (Useful in Android 12 and Android 13 devices tht has a app icon while opening)
+- Title bars are now dark mode to prevent from Screen Burn!
+- Creations has been moved to another screen and scanning is faster!
+- Transparency adjustment is supported on HEX Color Picker!
+- Margin an Padding sliders have been moved into the FAB. clicking on it will show the Bottom Sheet.
+
 **3.66.01.23 build 230629270**
 - The new _Map Creation_ is now on Title Designer! that is powered by the MapQuest API Server!
 - The icons of the Navigation bar have changed to Material Icons Outline.
