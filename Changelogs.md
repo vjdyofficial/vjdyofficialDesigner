@@ -1,3 +1,7 @@
+**4.22.75.82 build 230815676**
+- Bug fixes and stability improvements.
+- Annother redesigned of Title Editor.
+
 **4.22.75.80 build 230815017**
 - About screen redesigned
 - Welcome screen redesigned
