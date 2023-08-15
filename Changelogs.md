@@ -15,7 +15,7 @@
 - Now ability to create mask
 - Added support to choose regional date and time patterns after picking.
 - Preset moved to the new screen.
-- New file format support: CPA (Clip art file), TDZIP (Package File)
+- New file format support: CPA (Clip art file), TDZIP (Package File), CCT (Color Theme File), TXT (Text Project)
 - Now added 24 Built-in Image Backdrop for purposes.
 - Credits updated.
 - Settings Dialog icons and text redesigned.
