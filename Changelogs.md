@@ -1,3 +1,30 @@
+**4.22.75.80 build 230815017**
+- About screen redesigned
+- Welcome screen redesigned
+- Adding HTML Functions and Editor Commands Guide into the Menu options
+- Added function to change font in title editor (5 monospace fonts)
+- Added **Metadata** Back into Title Designer that bring back from version 1
+- Navigation changed to Tab Layout and 4 options now only include.
+- Removed icon on any buttons due to resize issue in certain DPI.
+- Subtitle Editing has been moved to Title Editor Dialog!
+- Redesigned _Permissions required_
+- New clip art screen and brand new Icon Workshop!
+- Added function to switch off/on colorization in Image Backdrop
+- Added Offset to Image Backdrop
+- Added HSL Color Picker, Pick Color from Image
+- Now ability to create mask
+- Added support to choose regional date and time patterns after picking.
+- Preset moved to the new screen.
+- New file format support: CPA (Clip art file), TDZIP (Package File)
+- Now added 24 Built-in Image Backdrop for purposes.
+- Credits updated.
+- Settings Dialog icons and text redesigned.
+- Now added support to share both title and masks to the computer.
+- Removal of Install font to Cyberlink PowerDirector.
+- Title Designer is now officially version 4!
+- Custom dialog is now usable in any warnings, errors, and info function.
+- Added **Manage Storage** screen your analyze the size of your created titles, and also, check the Cache data of the app.
+
 **3.72.13.60 build 230726662**
 - Launcher icon has been changed in order to follow VJDY's Logo scheming!
 - Splash screen is now in solid color! (Useful in Android 12 and Android 13 devices tht has a app icon while opening)
