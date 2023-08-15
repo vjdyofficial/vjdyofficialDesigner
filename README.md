@@ -30,11 +30,9 @@ visit https://creator.kodular.io to start creating your apps in easy way!
 - Support for HTML4 and HTML5 encoding good for making paragraph titles.
 - Support for Inserting Date, Time and Symbol.
 - Android Material Design Component powered by Makeroid Card View Canvas System.
-- Having Quotes, and Greetings and Layouts (only for HTML BB Code).
+- Having Quotes, and Greetings and Layouts (only for HTML Mode).
 - Built-in Layer Background and Text Pattern.
-- 69 color presets.
 - Support for install font and clipart package.
-- Support for install font package to Cyberlink PowerDirector. not working on API 30 and later. only work on API 29.
 - Support for exporting on Internal Storage. especially Android 11 Restrictions.
 - Integrated with All Files Access Permission.
 - Free, no-ads, and high quality made in the Philippines.
