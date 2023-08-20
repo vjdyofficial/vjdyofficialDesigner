@@ -1,3 +1,18 @@
+**_Latest version_**
+**4.22.76.50 build 230820568**
+- Bug fixes and stability improvements.
+- Socials have a links to follow.
+- New primary and accent color released! Blue and Green colors are now the official Title Designer App's color scheme! (one of them not changed yet.)
+- Keyboard still showing after dialog closed bug fixed.
+- Toolbars from Top of Creation screen has been moved to Bottom.
+- List not removed on Creations screen after deletion bug fixed.
+- Canvas and Stroke Radius Max Value increased to 64px.
+- Content Padding Max Value increased to 128px.
+- Lines on top of the dialogs are removed.
+- Loading screen on presets screen added.
+- On Select Color Screen, the Rebuild button will not show always if there's no image.
+
+**_History version_**
 **4.22.75.82 build 230815676**
 - Bug fixes and stability improvements.
 - Annother redesigned of Title Editor.
