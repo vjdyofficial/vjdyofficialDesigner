@@ -7,7 +7,7 @@ make nasty and neat titles, posters and overlay text with the Native
 Android Material Design Component.
 
 # Version Releases
-**_Latest version_**
+## Latest version
 **4.22.76.50 build 230820568**
 - Bug fixes and stability improvements.
 - Socials have a links to follow.
@@ -21,7 +21,7 @@ Android Material Design Component.
 - Loading screen on presets screen added.
 - On Select Color Screen, the Rebuild button will not show always if there's no image.
 
-**_History version_**
+## History version
 **4.22.75.82 build 230815676**
 - Bug fixes and stability improvements.
 - Annother redesigned of Title Editor.
